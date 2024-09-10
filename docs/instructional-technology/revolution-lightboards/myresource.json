@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Revolution Lightboards - Simplified Studio Desk",
+  "artifacts": [{
+    "id":"REVLB-0001",
+    "title": "Recording a video",
+    "thumbnail": "xcast.jpeg",
+    "description": "Video",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"REVLB-0002",
+    "title": "Capturing screen and your video",
+    "thumbnail": "xcast.jpeg",
+    "description": "Screen + video",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"REVLB-0003",
+    "title": "Capturing a whiteboard and your video",
+    "thumbnail": "xcast.jpeg",
+    "description": "Whiteboard + video",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"REVLB-0004",
+    "title": "Capturing your laptop and video",
+    "thumbnail": "xcast.jpeg",    
+    "fullname": "Laptop + video",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}

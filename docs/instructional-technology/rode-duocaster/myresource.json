@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Rode CasterDuo",
+  "artifacts": [{
+    "id":"RODEDUO-0001",
+    "title": "Rode CasterDuo - 1",
+    "thumbnail": "xcast.jpeg",
+    "description": "one",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"RODEDUO-0002",
+    "title": "Rode CasterDuo - 2",
+    "thumbnail": "xcast.jpeg",
+    "description": "two",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"RODEDUO-0003",
+    "title": "Rode CasterDuo - 3",
+    "thumbnail": "xcast.jpeg",
+    "description": "three",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"RODEDUO-0004",
+    "title": "Rode CasterDuo - 4",
+    "thumbnail": "xcast.jpeg",    
+    "fullname": "four",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}

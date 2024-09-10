@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Creative Software",
+  "artifacts": [{
+    "id":"CREATE-0001",
+    "title": "Adobe Audition",
+    "thumbnail": "xcast.jpeg",
+    "description": "Adobe Audition.",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"CREATE-0002",
+    "title": "Adobe Premiere",
+    "thumbnail": "xcast.jpeg",
+    "description": "Adobe Premiere",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"CREATE-0003",
+    "title": "Adobe PhotoShop",
+    "thumbnail": "xcast.jpeg",
+    "description": "Adobe PhotoShope",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"CREATE-0004",
+    "title": "Canva",
+    "thumbnail": "xcast.jpeg",    
+    "fullname": "Creating with Canva",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}

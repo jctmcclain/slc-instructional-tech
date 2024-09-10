@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Prusa Mini 3D Printer",
+  "artifacts": [{
+    "id":"3D-0001",
+    "title": "Introduction to TinkerCAD",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to design your concept in 3D.",
+    "docref": "javascript:alert('Coming Soon - TinkerCAD');"
+  },
+  {
+    "id":"3D-0002",
+    "title": "From Model to STL",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to export your 3D Model as a STL file",
+    "docref": "javascript:alert('Coming Soon - STL');"
+  },
+  {
+    "id":"3D-0003",
+    "title": "Slice your STL file",
+    "thumbnail": "xcast.jpeg",
+    "description": "Using the Prusa Slicer software",
+    "docref": "javascript:alert('Coming Soon- Slicing');"
+  },
+  {
+    "id":"3D-0004",
+    "title": "Printing your STL fille",
+    "thumbnail": "xcast.jpeg",    
+    "fullname": "After the modeling and slicing phase, you are ready to 3D print your design",
+    "docref": "javascript:alert('Coming Soon - Printing');"
+  }]
+}

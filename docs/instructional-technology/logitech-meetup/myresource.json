@@ -1,0 +1,24 @@
+{
+  "instructionaltech": "Logitech Meetup",
+  "artifacts": [{
+    "id":"MUP-0001",
+    "title": "Connecting your laptop",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to connect your laptop to the Meetup.",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"MUP-0002",
+    "title": "Setting up Zoom",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to set up your Zoom Client",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"MUP-0003",
+    "title": "Recording your Session",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to use OBS with the Meetup Camera",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}

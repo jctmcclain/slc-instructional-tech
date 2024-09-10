@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Logitech RallyBar",
+  "artifacts": [{
+    "id":"RALLY-0001",
+    "title": "Connecting your laptop",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to connect your laptop to the Logitech RallyBar System",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"RALLY-0002",
+    "title": "Setting up Zoom",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to set up your Zoom Client",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"RALLY-0003",
+    "title": "Voice tracking",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn more about voice tracking with Logitech RallyBar System",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"RALLY-0004",
+    "title": "Recording your Session",
+    "thumbnail": "xcast.jpeg",
+    "description": "Learn how to use OBS with the Logitech RallyBar System",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}

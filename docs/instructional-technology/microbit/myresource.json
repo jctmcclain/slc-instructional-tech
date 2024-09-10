@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Microbits",
+  "artifacts": [{
+    "id":"MBITS-0001",
+    "title": "What is a Microbit",
+    "thumbnail": "xcast.jpeg",
+    "description": "Microbit",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"MBITS-0002",
+    "title": "Connecting the Microbit",
+    "thumbnail": "xcast.jpeg",
+    "description": "Connect the Microbit to your computer",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"MBITS-0003",
+    "title": "Visual Programming",
+    "thumbnail": "xcast.jpeg",
+    "description": "Visual Programming with the Microbit",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"MBITS-0004",
+    "title": "Micropython",
+    "thumbnail": "xcast.jpeg",    
+    "fullname": "Using Python with the Microbits",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}

@@ -1,0 +1,31 @@
+{
+  "instructionaltech": "Viewsonic Viewboard",
+  "artifacts": [{
+    "id":"VB-0001",
+    "title": "ViewBoard",
+    "thumbnail": "xcast.jpeg",
+    "description": "VB 01",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"VB-0002",
+    "title": "ViewBoard",
+    "thumbnail": "xcast.jpeg",
+    "description": "VB 02",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"VB-0003",
+    "title": "ViewBoard",
+    "thumbnail": "xcast.jpeg",
+    "description": "VB 03",
+    "docref": "javascript:alert('Coming Soon');"
+  },
+  {
+    "id":"VB-0004",
+    "title": "ViewBoard",
+    "thumbnail": "xcast.jpeg",    
+    "fullname": "VB 04",
+    "docref": "javascript:alert('Coming Soon');"
+  }]
+}
