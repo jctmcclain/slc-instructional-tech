@@ -1,4 +1,4 @@
-# Statton Learning Commons Instructional Guide
+# Statton Learning Commons Training Guide
 
 ## Learning Objectives 
 
