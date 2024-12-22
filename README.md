@@ -1,8 +1,3 @@
-# Statton Learning Commons Training Guide
+# Statton Learning Commons Instructional Technology
 
-## Learning Objectives 
-
-* one 
-* two
-* three
-* four
+## Moved to Sharepoint Site 
